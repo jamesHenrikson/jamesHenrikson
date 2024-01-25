@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamesHenrikson
-- 👀 I’m interested in codin
+- 👀 I’m interested in exploring the latest in technology
 - 🌱 I’m currently learning Algorithims and Data Structures
 - 💞️ I’m looking to collaborate on assignments
 - 📫 How to reach me jamesahenrikson@gmail.com
